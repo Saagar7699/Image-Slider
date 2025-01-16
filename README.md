@@ -1,4 +1,4 @@
-# Image-Slider
+# ImageSlider
 This project features a custom image slider built using HTML, CSS, and JavaScript.
 
 ✨ Features
